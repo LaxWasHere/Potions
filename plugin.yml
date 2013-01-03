@@ -1,0 +1,46 @@
+name: PassivePotions
+main: net.lazlecraft.potions.Potions
+version: 0.5
+author: LaxWasHere
+
+commands:
+    potions:
+        description: Gives the link to the bukkit page.
+        aliases: laxwashere
+permissions:
+    potions.speed.one:
+        description: Gives Speed Boost I
+        default: false
+    potions.speed.two:
+        description: Gives Speed Boost II
+        default: false
+    potions.speed.three:
+        description: Gives Speed Boost III
+        default: false
+    potions.jump.one:
+        description: Gives Jump Boost I
+        default: false
+    potions.jump.two:
+        description: Gives Jump Boost II
+        default: false
+    potions.jump.three:
+        description: Gives Jump Boost III
+        default: false
+    potions.haste.one:
+        description: Gives Dig Speed Boost I
+        default: false
+    potions.haste.two:
+        description: Gives Dig Speed Boost II
+        default: false
+    potions.haste.three:
+        description: Gives Dig Speed Boost III
+        default: false
+    potions.strength.one:
+        description: Gives Strength Boost I
+        default: false
+    potions.strength.two:
+        description: Gives Strength Boost II
+        default: false
+    potions.strength.three:
+        description: Gives Strength Boost III
+        default: false
