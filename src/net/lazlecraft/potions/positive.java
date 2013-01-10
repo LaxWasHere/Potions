@@ -86,11 +86,6 @@ public class positive implements Listener {
            	p.removePotionEffect(PotionEffectType.SPEED);
                p.addPotionEffect(new PotionEffect(PotionEffectType.SPEED, 18000, 2));
            }
-           //Testing this one.
-           if(p.hasPermission("potions.speed.crazy")) {
-              	p.removePotionEffect(PotionEffectType.SPEED);
-                  p.addPotionEffect(new PotionEffect(PotionEffectType.SPEED, 18000, 500));
-           }
            // Jump boost
            if(p.hasPermission("potions.jump.one")) {
            	p.removePotionEffect(PotionEffectType.JUMP);
