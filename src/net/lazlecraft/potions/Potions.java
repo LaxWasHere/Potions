@@ -37,6 +37,7 @@ public class Potions extends JavaPlugin implements Listener {
     //January  3,  12' Dear Diary. Today I arrived on this amazing hotel called GitHub.
     //January  4,  12' Dear Diary. Today I'm going to visit this amazing site called dev.bukkit.org
     //January  4,  12' Dear Diary. Today all my (considered) neutral effects is finished.
+    //January  9,  12' Dear Diary. Today I did nothing. Same ol' same ol'
     //
     //List of effects at http://lazle.us/WexCVI
     //Original code from http://dev.bukkit.org/server-mods/speed-boost/
