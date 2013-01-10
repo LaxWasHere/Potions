@@ -1,6 +1,6 @@
 name: PassivePotions
 main: net.lazlecraft.potions.Potions
-version: 0.5
+version: 0.7
 author: LaxWasHere
 
 commands:
@@ -44,3 +44,12 @@ permissions:
     potions.strength.three:
         description: Gives Strength Boost III
         default: false
+    potions.neutral.invinsible:
+        description: Gives Invisible Effect.
+        default: false
+    potions.neutral.nightvision:
+        description: Gives Night Visions Effect
+        default: false
+    potions.neutral.aqua:
+        description: Gives Water Breathing Effect
+        default: false  
